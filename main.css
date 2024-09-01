@@ -1,0 +1,50 @@
+body{
+    background-color: black;
+}
+
+.navbar-nav .nav-link{
+    color: #eacaca;
+}
+
+.navbar-nav .nav-link.active {
+    color: #fff;
+}
+
+.nav-link{
+    text-align: center;
+}
+
+section{
+    height: 100vh;
+    padding-top: 70px;
+}
+
+#carousel{
+    height: auto;
+}
+
+header{
+    position: sticky;
+    top: 0;
+    left: 0;
+    background-color: rgb(39, 2, 13);
+    z-index: 3;
+}
+
+header div div h1{
+    color: #eacaca;
+}
+
+.imagem-gwent{
+    width: 100%;
+    height: 650px;
+
+}
+
+body{
+    overflow-x: hidden;
+}
+
+article{
+    margin-bottom: 16px;
+}
